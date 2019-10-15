@@ -12,7 +12,7 @@ We have public bi-weekly meeting on Mondays at 6PM PT.
 Where: [Google Meet](https://meet.google.com/rwo-ynwh-xqy?hs=122)
        `Phone +1 601-844-2661 PIN: 449 924#`
 
-When:  Starting Monday, October 7 2019 between 6 - 6:30 PM PT. Repeats every 2 weeks.
+When:  Starting Monday, November 4 2019 between 6 - 6:30 PM PT. Repeats every 2 weeks.
 
 
 ### Purpose
