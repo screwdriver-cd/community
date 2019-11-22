@@ -4,6 +4,7 @@
 
 - [Alan Dong](https://github.com/adong)
 - [Keisuke Kumada](https://github.com/kumada626)
+- [Shota Yoshika](https://github.com/s-yoshika)
 
 ## Agenda
 
