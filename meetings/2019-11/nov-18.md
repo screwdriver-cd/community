@@ -26,7 +26,7 @@ From YJapan:
 
 Regards to [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), YJapan team would like to see more diagrams and charts, which would help greatly to know how infrasturcture were setup and take advantage of disk cache.
 
-Regards to [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), YJapan team is taking a look into it.
+For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), the YJapan team is taking a look into it.
 
 K8s upgrade: screwdriver infra's k8s config is not up to date. see [issue 1846](https://github.com/screwdriver-cd/screwdriver/issues/1846) for more details.
 
