@@ -28,7 +28,7 @@ For [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830
 
 For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), the YJapan team is taking a look into it.
 
-K8s upgrade: screwdriver infra's k8s config is not up to date. see [issue 1846](https://github.com/screwdriver-cd/screwdriver/issues/1846) for more details.
+K8s upgrade: Screwdriver's infra K8s config is not up to date. See [issue 1846](https://github.com/screwdriver-cd/screwdriver/issues/1846) for more details.
 
 
 Lack of documentations on which what token types are, i.e. `SD_UI_TOKEN`, `SD_API_TOKEN`, and `SD_STORE_TOKEN`. It would be nice to add more clearification to the guide or docs, see [issue 1848](https://github.com/screwdriver-cd/screwdriver/issues/1848), and more documentations on developing locally. 
