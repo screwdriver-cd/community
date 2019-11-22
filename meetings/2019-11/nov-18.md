@@ -24,7 +24,7 @@ From YJapan:
 
 [Force Push](https://github.com/screwdriver-cd/data-schema/pull/360) API is done, and UI work is still in progress.
 
-Regards to [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), YJapan team would like to see more diagrams and charts, which would help greatly to know how infrasturcture were setup and take advantage of disk cache.
+For [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), the YJapan team would like to see more diagrams and charts to help with understanding how the infrastructure was setup and how to take advantage of the disk cache.
 
 For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), the YJapan team is taking a look into it.
 
