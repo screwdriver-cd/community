@@ -28,4 +28,4 @@ This meeting is for Screwdriver cluster administrators and developers to share o
 
 ### Archives
 
-Meetings notes to be archived [here.](./docs/archive) 
+Meetings notes to be archived [here.](./meetings) 
