@@ -16,7 +16,7 @@ From VMG:
 - [Build timeout not reliable](https://github.com/screwdriver-cd/screwdriver/issues/1710)
 - [Updating dependencies](https://github.com/screwdriver-cd/screwdriver/issues/1722)
 
-From YJapan:
+From Yahoo! JAPAN:
 
 - [Template/Command list screen shows wrong VERSION](https://github.com/screwdriver-cd/screwdriver/issues/1723)
 - [More details on notification email](https://github.com/screwdriver-cd/screwdriver/issues/1668)
