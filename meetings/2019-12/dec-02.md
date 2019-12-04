@@ -30,7 +30,7 @@ For [Template/Command list screen shows wrong VERSION](https://github.com/screwd
 
 For [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), discussed workflow, `executor-k8s` to be worked up on after `exececutor-k8s-vm` flow is addressed.
 
-For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), [prs](https://github.com/screwdriver-cd/screwdriver/pull/1850) have been merged, YJapan team will get performance numbers next time.
+For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), [prs](https://github.com/screwdriver-cd/screwdriver/pull/1850) have been merged, Yahoo! JAPAN team will get performance numbers next time.
 
 For [DB Size is growing](https://github.com/screwdriver-cd/screwdriver/issues/1865) VMG has data retention policies with is a Lambda process cleaning up builds older than 1 year. Current database table structure should be analyzed to do normalization.
 
