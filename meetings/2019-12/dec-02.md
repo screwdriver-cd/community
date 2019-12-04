@@ -5,7 +5,7 @@
 - [Jithin Emmanuel](https://github.com/jithine)
 - [Keisuke Kumada](https://github.com/kumada626)
 - [Shota Yoshika](https://github.com/s-yoshika)
-- Yahoo Japan Team
+- Yahoo! JAPAN Team
 
 ## Agenda
 
