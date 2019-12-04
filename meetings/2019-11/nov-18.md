@@ -14,7 +14,7 @@ From VMG:
 - [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830)
 - [Parallel Fork](https://github.com/screwdriver-cd/screwdriver/issues/1710)
 
-From YJapan:
+From Yahoo! JAPAN:
 
 - [SD Local](https://github.com/screwdriver-cd/screwdriver/issues/1314)
 - [Template/Command list screen shows wrong VERSION](https://github.com/screwdriver-cd/screwdriver/issues/1723)
@@ -26,9 +26,9 @@ From YJapan:
 
 [Force Push](https://github.com/screwdriver-cd/data-schema/pull/360) API is done, and UI work is still in progress.
 
-For [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), the YJapan team would like to see more diagrams and charts to help with understanding how the infrastructure was setup and how to take advantage of the disk cache.
+For [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830), the Yahoo! JAPAN team would like to see more diagrams and charts to help with understanding how the infrastructure was setup and how to take advantage of the disk cache.
 
-For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), the YJapan team is taking a look into it.
+For [Performance issue of webhook](https://github.com/screwdriver-cd/screwdriver/issues/1468), the Yahoo! JAPAN team is taking a look into it.
 
 K8s upgrade: Screwdriver's infra K8s config is not up to date. See [issue 1846](https://github.com/screwdriver-cd/screwdriver/issues/1846) for more details.
 
