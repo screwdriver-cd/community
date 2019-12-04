@@ -14,7 +14,7 @@ From VMG:
 - [Disk Optimzation](https://github.com/screwdriver-cd/screwdriver/issues/1830)
 - [Parallel Fork](https://github.com/screwdriver-cd/screwdriver/issues/1710)
 
-From YJapan:
+From Yahoo! JAPAN:
 
 - [SD Local](https://github.com/screwdriver-cd/screwdriver/issues/1314)
 - [Template/Command list screen shows wrong VERSION](https://github.com/screwdriver-cd/screwdriver/issues/1723)
