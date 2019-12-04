@@ -37,3 +37,5 @@ For [DB Size is growing](https://github.com/screwdriver-cd/screwdriver/issues/18
 [Notification email](https://github.com/screwdriver-cd/screwdriver/issues/1668) feature was completed a while back, issue was closed.
 
 For [Build timeout not reliable](https://github.com/screwdriver-cd/screwdriver/issues/1710) & [Updating dependencies](https://github.com/screwdriver-cd/screwdriver/issues/1722) VMG will proritize them for Q1 2020.
+
+For [SD Local](https://github.com/screwdriver-cd/screwdriver/issues/1853), Yahoo! JAPAN team will start with local mode implementation of log-service and launcher. 
