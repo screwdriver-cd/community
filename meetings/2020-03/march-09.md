@@ -32,5 +32,5 @@ From Yahoo! JAPAN:
 
 ## Discussion Notes
 
-1. Need formal process for tagging docker containers as stable. We should be doing this after a major feature work and a blog post is available for the fature. 
+1. Need formal process for tagging docker containers as stable. We should be doing this after a major feature work along with a blog post for the feature.
 1. Verizon Media team can collaborate on blog post for sd-local.
