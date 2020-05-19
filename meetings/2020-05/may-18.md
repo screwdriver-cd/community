@@ -34,7 +34,7 @@ Operational issues and feature requests
 
 Completed Work
 1. Randomize build executor selection to shift build traffic dynamically to `Kata` nodes. [#2083](https://github.com/screwdriver-cd/screwdriver/issues/2083)
-1. Fix for restarted jobs to find conext across all linked events. [#1785](https://github.com/screwdriver-cd/screwdriver/issues/1785)
+1. Fix for restarted jobs to find context across all linked events. [#1785](https://github.com/screwdriver-cd/screwdriver/issues/1785)
 
 
 Work In Progress 
