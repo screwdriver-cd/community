@@ -16,7 +16,7 @@
 Completed Work
 
 1. Ability disable build cache for a job. [#1748](https://github.com/screwdriver-cd/screwdriver/issues/1748)
-1. Fix for webhoob not being addeed for chid pipeline [#2056](https://github.com/screwdriver-cd/screwdriver/issues/2056)
+1. Fix for webhook not being added for child pipeline [#2056](https://github.com/screwdriver-cd/screwdriver/issues/2056)
 
 Work In Progress 
 1. Logging for capturing template usage stats. [PR-451](https://github.com/screwdriver-cd/models/pull/451)
