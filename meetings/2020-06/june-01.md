@@ -3,10 +3,8 @@
 ## Attendees
 
 - [Jithin Emmanuel](https://github.com/jithine)
-- [Lakshminarasimhan Parthasarathy](https://github.com/parthasl)
 - [Keisuke Kumada](https://github.com/kumada626)
 - [Yoshika Shota](https://github.com/s-yoshika)
-- [Supratik Das](https://github.com/supra08)
 - Yahoo! JAPAN Team
 
 ## Agenda
@@ -15,47 +13,44 @@
 
 Completed Work
 
-1. Ability disable build cache for a job. [#1748](https://github.com/screwdriver-cd/screwdriver/issues/1748)
-1. Fix for webhook not being added for child pipeline [#2056](https://github.com/screwdriver-cd/screwdriver/issues/2056)
+1. Support exclusions in Source Paths. [#1044   ](https://github.com/screwdriver-cd/screwdriver/issues/1044)
+1. Fix for chainPR and remote join [PR #398](https://github.com/screwdriver-cd/data-schema/pull/398)
+1. Fix for tag/release triggers being dependent on changedFiles. [PR #454](https://github.com/screwdriver-cd/models/pull/454)
 
 Work In Progress 
-1. Logging for capturing template usage stats. [PR-451](https://github.com/screwdriver-cd/models/pull/451)
 1. SD Local mode updates. [#1314](https://github.com/screwdriver-cd/screwdriver/issues/1314).
-    1. Refactoring config file changes complete. [#2050](https://github.com/screwdriver-cd/screwdriver/issues/2050)
-    1. Working on blog post.
+    1. Blog post pending review.
 
 Operational issues and feature requests
-1. Duplicate builds since GHE upgrade. [#2086](https://github.com/screwdriver-cd/screwdriver/issues/2086)
-1. Piping of sd commands results in error. [#2090](https://github.com/screwdriver-cd/screwdriver/issues/2090)
-1. Step order is broken in certain DB setups. [#2089](https://github.com/screwdriver-cd/screwdriver/issues/2089)
+1. First PR job is not running without an empty screwdriver.yaml  [#2094](https://github.com/screwdriver-cd/screwdriver/issues/2094)
+1. Queued notifications are sent twice [#2096](https://github.com/screwdriver-cd/screwdriver/issues/2096)
+1. Raw queries are broken with MySQL 5.7 [#2100](https://github.com/screwdriver-cd/screwdriver/issues/2100)
 
 
 #### From Verizon Media:
 
 Completed Work
-1. Randomize build executor selection to shift build traffic dynamically to `Kata` nodes. [#2083](https://github.com/screwdriver-cd/screwdriver/issues/2083)
-1. Fix for restarted jobs to find context across all linked events. [#1785](https://github.com/screwdriver-cd/screwdriver/issues/1785)
+1. Kata containers blog post is published. 
+1. Aggregate view with job list UI. [#1967](https://github.com/screwdriver-cd/screwdriver/issues/1967)
 
 
 Work In Progress 
-1. New on-boarding UI. PRs open to auto-create pull requests.  [#1922](https://github.com/screwdriver-cd/screwdriver/issues/1922)
-1. Aggregate view with job list UI. [#1967](https://github.com/screwdriver-cd/screwdriver/issues/1967)
-    1. All pull requests have been merged. Waiting on review from design team and few more [changes](https://github.com/screwdriver-cd/screwdriver/issues/1967#issuecomment-630981995).
-
-
-Operational issues and feature requests
+1. New on-boarding UI. API now supports creating PR. [#1922](https://github.com/screwdriver-cd/screwdriver/issues/1922)
 1. GHE SSHCA feature is breaking webhook signature validation. [#2017](https://github.com/screwdriver-cd/screwdriver/issues/1785)
+1. Cache cleanup is broken with disk based cache. [#2087](https://github.com/screwdriver-cd/screwdriver/issues/2087)
+1. Support relative path resolution in store-cli. [#2098](https://github.com/screwdriver-cd/screwdriver/issues/2098)
+1. Builds are blocked by other builds which are already completed. [#2095](https://github.com/screwdriver-cd/screwdriver/issues/2095)
 
 
 #### From Supratik (GSoC):
 
 Work in Progress
 1. Validating `settings` in `screwdriver.yaml`. [#1574](https://github.com/screwdriver-cd/screwdriver/issues/1574)
+    1. Pull Requests are open.
 1. Generate and use deploy keys. [#1079](https://github.com/screwdriver-cd/screwdriver/issues/1574)
 
 ## Discussion Notes
 
-1. Related to step order issue, Lakshmi pointed out that using `GSLB` in DB might cause duplicate build id's in different databases. Yahoo! Japan team to verify this.
-1. Yahoo! Japan team is testing `remote-join` and plan to make it available to users.
-1. Verizon Media team is in the process of operationalizing `Kata` containers in internal build clusters.
-1. Supratik is working with Screwdriver as part of [GSoC](https://summerofcode.withgoogle.com/projects/#6332388868620288). Welcome onboard.
+1. Yahoo! JAPAN to turn on Remote-Join feature in SD cluster.
+1. Raw queries for aggregate view and restart build flow is blocking new API release for Yahoo! JAPAN. 
+1. Exploring feasiblity of a webinar with Yahoo! JAPAN and Verizon Media team.
