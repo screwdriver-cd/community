@@ -13,7 +13,7 @@
 
 Completed Work
 
-1. Support exclusions in Source Paths. [#1044   ](https://github.com/screwdriver-cd/screwdriver/issues/1044)
+1. Support exclusions in Source Paths. [#1044](https://github.com/screwdriver-cd/screwdriver/issues/1044)
 1. Fix for chainPR and remote join [PR #398](https://github.com/screwdriver-cd/data-schema/pull/398)
 1. Fix for tag/release triggers being dependent on changedFiles. [PR #454](https://github.com/screwdriver-cd/models/pull/454)
 
