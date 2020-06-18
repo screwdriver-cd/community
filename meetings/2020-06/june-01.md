@@ -1,4 +1,4 @@
-# Meeting Notes - 2020-05-18
+# Meeting Notes - 2020-06-01
 
 ## Attendees
 
