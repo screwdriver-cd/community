@@ -50,6 +50,5 @@ Work In Progress
 1. [#2106](https://github.com/screwdriver-cd/screwdriver/issues/2106) still cannot be used since `executors` need to be modified to pass in this value. VZM team to take a look into this. Created [#2150](https://github.com/screwdriver-cd/screwdriver/issues/2150) to track
 1. VZM tried upgrade of Sonarqube from 6.x to 7.x and upgrade ran for over 4 days and had to roll back. Updated plan is to upgrade without carrying over data.
 1. Supratik gave a demo of his GSoC project of Deploy Key generation as part of a new pipeline creation. Demo went well, and primary use-cases works as expected.
-1. VZM team to start looking into [denali-ember](https://github.com/denali-design/denali-ember) for UI components. Screwdriver UI design ie heavily influenced by Denali and is create by same same Design team behind Screwdriver UI.
+1. VZM team to start looking into [denali-ember](https://github.com/denali-design/denali-ember) for UI components. Screwdriver UI design is heavily influenced by Denali and is create by same Design team behind Screwdriver UI.
 1. Need a replacement for Hapi.js since it's on EOL path. 
-
