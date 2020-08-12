@@ -4,7 +4,6 @@
 
 - [Jithin Emmanuel](https://github.com/jithine)
 - [Keisuke Kumada](https://github.com/kumada626)
-- [Yoshika Shota](https://github.com/s-yoshika)
 - [Hiroki Takatsuka](https://github.com/tk3fftk)
 - Yahoo! JAPAN Team
 
