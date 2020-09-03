@@ -7,12 +7,13 @@ Check out our [docs](https://docs.screwdriver.cd/) to get information on how to 
 
 ## Community meetup
 
-We have public bi-weekly meeting on Mondays at 6PM PT.
+We have public bi-weekly meeting on Tuesdays at 6PM PT.
 
 Where: [Google Meet](https://meet.google.com/rwo-ynwh-xqy?hs=122)
        `Phone +1 601-844-2661 PIN: 449 924#`
 
-When:  Starting Monday, November 4 2019 between 6 - 6:30 PM PT. Repeats every 2 weeks.
+When:  Bi-weekly on Tuesdays between 6 - 6:30 PM PT. Repeats every 2 weeks.
+       [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=YzJrZjExYTByN3FoNG9la201OW44cWlvbDJfMjAyMDA5MDlUMDEwMDAwWiBjX2prdjg1MDh1OGx0dGM3NjZmNHBtbmUwcnJjQGc&tmsrc=c_jkv8508u8lttc766f4pmne0rrc%40group.calendar.google.com&scp=ALL)
 
 
 ### Purpose
