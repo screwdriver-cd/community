@@ -3,6 +3,8 @@
 ## Attendees
 
 - [Jithin Emmanuel](https://github.com/jithine)
+- [Tiffany K](https://github.com/tkyi)
+- [Renaud Lepage](https://github.com/renaud-vmg)
 - [Keisuke Kumada](https://github.com/kumada626)
 - [Hiroki Takatsuka](https://github.com/tk3fftk)
 - [Supratik Das](https://github.com/supra08)
