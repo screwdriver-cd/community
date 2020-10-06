@@ -44,7 +44,7 @@
 
 #### Operational issues and feature requests
 1. Limit number of parallel builds in a pipeline. [#2225](https://github.com/screwdriver-cd/screwdriver/issues/2225)
-   1. We had an issue where a single pipeine took down build cluster by running over 100 parallel builds using TURBO resources.
+   1. We had an issue where a single pipeline took down build cluster by running over 100 parallel builds using TURBO resources.
 1. Build in Bare metal nodes using executor-ssh [#2224](https://github.com/screwdriver-cd/screwdriver/issues/2224)
    1. There is a need for building on bare metal for OS images, since containers can't satisfy the build requireemnts. 
 1. UX for builds in `CREATED` status is confusing. [#2225](https://github.com/screwdriver-cd/screwdriver/issues/2225)
@@ -57,4 +57,3 @@
 1. VZM moved to blue-green deployment model using Kubernetes Canary ingress flow.
 1. cdCon conference registration is now free. Screwdriver has [3 talks](https://blog.screwdriver.cd/post/630726409431760896/explore-screwdriver-at-cdcon-2020). 
 1. No meetup next week since we skipped a week due to Google Meet outage. Next meeting will be on October 22nd.
-
