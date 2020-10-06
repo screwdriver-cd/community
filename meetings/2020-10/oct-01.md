@@ -6,7 +6,6 @@
 - [Tiffany K](https://github.com/tkyi)
 - [Renaud Lepage](https://github.com/renaud-vmg)
 - [Keisuke Kumada](https://github.com/kumada626)
-- [Hiroki Takatsuka](https://github.com/tk3fftk)
 - Yahoo! JAPAN Team
 
 ## Agenda
