@@ -1,4 +1,4 @@
-# Meeting Notes - 2020-10-05
+# Meeting Notes - 2020-10-01
 
 ## Attendees
 
@@ -58,5 +58,4 @@
 1. VZM moved to blue-green deployment model using Kubernetes Canary ingress flow.
 1. cdCon conference registration is now free. Screwdriver has [3 talks](https://blog.screwdriver.cd/post/630726409431760896/explore-screwdriver-at-cdcon-2020). 
 1. No meetup next week since we skipped a week due to Google Meet outage. Next meeting will be on October 22nd.
-
 
