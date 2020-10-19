@@ -7,7 +7,7 @@ Check out our [docs](https://docs.screwdriver.cd/) to get information on how to 
 
 ## Community meetup
 
-We have public bi-weekly meeting on Tuesdays at 6PM PT.
+We have public bi-weekly meeting on Thursdays at 6PM PT.
 
 Where: [Google Meet](https://meet.google.com/rwo-ynwh-xqy?hs=122)
        `Phone +1 601-844-2661 PIN: 449 924#`
