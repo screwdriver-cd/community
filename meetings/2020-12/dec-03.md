@@ -1,4 +1,4 @@
-# Meeting Notes - 2020-12-1039
+# Meeting Notes - 2020-12-03
 
 ## Attendees
 
@@ -51,5 +51,4 @@
 2. Build cluster worker has [no functional tests](https://github.com/screwdriver-cd/screwdriver/issues/2281).
  
 ### Discussion Notes
-
 
