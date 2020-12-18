@@ -13,7 +13,9 @@ Where: [Google Meet](https://meet.google.com/rwo-ynwh-xqy?hs=122)
        `Phone +1 601-844-2661 PIN: 449 924#`
 
 When:  Bi-weekly on Thursdays between 6 - 6:30 PM PT. Repeats every 2 weeks.
-       [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=YzJrZjExYTByN3FoNG9la201OW44cWlvbDJfMjAyMDA5MDlUMDEwMDAwWiBjX2prdjg1MDh1OGx0dGM3NjZmNHBtbmUwcnJjQGc&tmsrc=c_jkv8508u8lttc766f4pmne0rrc%40group.calendar.google.com&scp=ALL)
+       [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjRqMzJjaDZnamVuaTQ1bjNwcmNvcG9mOW5fMjAyMDEyMThUMDIwMDAwWiBjX2prdjg1MDh1OGx0dGM3NjZmNHBtbmUwcnJjQGc&tmsrc=c_jkv8508u8lttc766f4pmne0rrc%40group.calendar.google.com&scp=ALL)
+       
+[Meeting Notes](https://docs.google.com/document/d/13lrkzLqwWjCMJrOhI8_aDUnqb6X2dxVAsfxe57WF2yU/edit?usp=sharing)
 
 
 ### Purpose
@@ -29,4 +31,4 @@ This meeting is for Screwdriver cluster administrators and developers to share o
 
 ### Archives
 
-Meetings notes to be archived [here.](./meetings) 
+Old meetings notes can be found [here.](./meetings) 
